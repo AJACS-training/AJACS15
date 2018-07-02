@@ -49,35 +49,30 @@
     <dd>福岡県バイオ産業拠点推進会議</dd>
 </dl>
 
-<div class="jumpmenu">↑</div>
+###  内容  
 
-### [_](http://MotDB.DBCLS.jp/?AJACS15#w9de101f "w9de101f") 内容  
-
-<div class="jumpmenu">↑</div>
-
-#### [_](http://MotDB.DBCLS.jp/?AJACS15#l7ad2c42 "l7ad2c42") 1日目：18日(月)  
+#### 1日目：18日(月)  
 
 * 9:00 受付開始
 * 9:30-10:00 「はじめに：統合データベースプロジェクトとは？」
-* 10:00-10:30 [「統合TV」](http://MotDB.DBCLS.jp/?AJACS15%2Fhono1 "AJACS15/hono1 (3086d)")
+* 10:00-10:30 [「統合TV」](01_hono1.md)
 * 10:30-12:00 「生命科学横断検索、生命科学系DBカタログの利用法」
 
-    * [「概要」](http://MotDB.DBCLS.jp/?AJACS15%2Fskwmt1 "AJACS15/skwmt1 (3086d)")(30mins)
-    * [「実習」](http://MotDB.DBCLS.jp/?AJACS15%2Fsk2 "AJACS15/sk2 (3086d)")(1hr)
+    * [「概要」](AJACS15_kawamoto.pdf)(30mins)
+    * [「実習」](02_kawano.md)(1hr)
 
 * 12:00-13:00 昼休憩
 
-* 13:00-15:00 [「遺伝子発現データベースを使い倒す」](http://MotDB.DBCLS.jp/?AJACS15%2Fhono2 "AJACS15/hono2 (3086d)")
+* 13:00-15:00 [「遺伝子発現データベースを使い倒す」](03_hono2.md)
 * 15:00-15:30 休憩
-* 15:30-17:00 [「DNAデータベース総覧と検索、MiGAP、アナトモグラフィー／BodyParts3Dの使い方」](http://MotDB.DBCLS.jp/?AJACS15%2Fbono "AJACS15/bono (3085d)")
+* 15:30-17:00 [「DNAデータベース総覧と検索、MiGAP、アナトモグラフィー／BodyParts3Dの使い方」](04_bono.md)
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS15#k888d2d8 "k888d2d8") 2日目：19日(火)  
+#### 2日目：19日(火)  
 
 いただいたリクエストに基づいてプログラムを決定します
 
-* 10:00-12:00 [「遺伝子発現データを使い倒す～R/BioConductor の導入と解析例～」](http://MotDB.DBCLS.jp/?AJACS15%2Fhono3 "AJACS15/hono3 (2209d)")
+* 10:00-12:00 [「遺伝子発現データを使い倒す～R/BioConductor の導入と解析例～」](05_hono3.md)
 * 12:00-13:00 昼休憩
 * 13:00-15:00 午後の部
 
