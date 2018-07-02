@@ -1,6 +1,4 @@
-[[AJACS15]]に戻る
-
-&size(36){DNAデータベース総覧と検索、MiGAP、アナトモグラフィー／BodyParts3Dの使い方};
+DNAデータベース総覧と検索、MiGAP、アナトモグラフィー／BodyParts3Dの使い方
         --
 目次
 
